@@ -20,7 +20,7 @@ def health():
     return {'status': 'healthy'}, 200
 
 if __name__ == '__main__':
-    port = int(os.getenv('PORT', 5000))
+    port = int(os.getenv('PORT', 8080))
     debug = os.getenv('FLASK_DEBUG', 'False').lower() == 'true'
     
     app.run(

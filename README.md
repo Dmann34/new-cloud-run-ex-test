@@ -14,9 +14,9 @@
 ### Clone and setup
    ```bash
    git clone https://github.com/aaron-dm-mcdonald/cloud-run-ex.git
-   cd cloud-run-ex
-        and
+                     and
    git clone https://github.com/Dmann34/new-cloud-run-ex-test.git
+   cd cloud-run-ex
    ```
 
 ### Local Test
